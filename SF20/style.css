@@ -1,0 +1,17 @@
+/* Optional styling for image and buttons */
+#myImage {
+    width: 1000px;
+    /*500 we can adjust according to our wish*/
+    height: 500px;
+    /*300 observe the image and then adujust*/
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
