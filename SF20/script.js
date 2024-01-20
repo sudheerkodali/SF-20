@@ -2,6 +2,7 @@ const imagePaths = [
     "myImage/image2.png", // Replace with actual image paths
     "myImage/image3.png",
     "myImage/image4.png",
+    "myImage/image5.png",
 ];
 
 
