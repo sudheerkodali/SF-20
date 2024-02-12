@@ -36,6 +36,8 @@ const imagePaths = [
     "myImage/image36.png",
     "myImage/image37.png",
     "myImage/image38.png",
+     "myImage/image39.png",
+     "myImage/image40.png",
     
 ];
 
